@@ -1,6 +1,10 @@
 ### Hi there 👋, I am Chinwendu (aka wendeee)
 
+- 👩‍💻 I'm a Applied Biochemistry graduate who's making a switch to tech. My tech journey began with self-study 
+      and use  of online resources. I am currently a Software Engineering student at AltSchool Africa.
+
 - 🔭 I’m currently working on creating my portfolio website.
+
 - 🌱 I’m currently honing my skills in preparation for a career as a Backend Engineer.
 
 - 👯 I’m looking to collaborate on open source projects.
