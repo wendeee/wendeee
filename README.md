@@ -1,15 +1,15 @@
 ### Hi there 👋, I am Chinwendu (aka wendeee)
 
 - 🔭 I’m currently working on creating my portfolio website.
-- 🌱 I’m currently learning about technologies used for server side programming.
+- 🌱 I’m currently honing my skills in preparation for a career as a Backend Engineer.
 
 - 👯 I’m looking to collaborate on open source projects.
 
 - ⚡ Hobbies: Travelling 🚀, Reading 📙, Hanging out with friends.
 
-- ✍ I create content here: [My Blog](https://chinwendu.hashnode.dev/)
+- ✍ I share my knowledge here: [My Blog](https://chinwendu.hashnode.dev/) 
 
-- 📫 How to reach me: [Twitter](https://www.twitter.com/_ChinwenduE),   [LinkedIn](https://www.linkedin.com/in/enyinna-chinwendu-promise/)
+- 📫 How to reach me: [Twitter](https://www.twitter.com/_ChinwenduE),   [LinkedIn](https://www.linkedin.com/in/enyinna-chinwendu-promise/),  chinwe.promise2016@gmail.com
 
 
 
