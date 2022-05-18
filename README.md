@@ -9,7 +9,7 @@
 
 - ✍ I create content here: [My Blog](https://chinwendu.hashnode.dev/)
 
-- 📫 How to reach me: [Twitter](https://www.twitter.com/_ChinwenduE)   [LinkedIn](https://www.linkedin.com/in/enyinna-chinwendu-promise/)
+- 📫 How to reach me: [Twitter](https://www.twitter.com/_ChinwenduE),   [LinkedIn](https://www.linkedin.com/in/enyinna-chinwendu-promise/)
 
 
 
