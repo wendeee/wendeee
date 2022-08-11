@@ -20,14 +20,13 @@
 
 - ⚡ Hobbies: Travelling 🚀, Reading 📙, Hanging out with friends.
 
-- ✍ I share my knowledge here: [My Blog](https://chinwendu.hashnode.dev/) 
+- ✍ I I create technical content: [My Blog](https://chinwendu.hashnode.dev/) 
 
 - 📫 You can contact me by emailing chinwe.promise2016@gmail.com
 
 
 
 ### Languages and Tools
-
 
 <code><img height="45" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="36" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="CSS"></code>
