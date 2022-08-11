@@ -40,7 +40,8 @@
 ### 🏆 My GitHub stats
 
 </br>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wendeee&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendeee&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=wendeee&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendeee&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| ------------- | ------------- |
 
 <!--mine github stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wendeee&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
