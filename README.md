@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning JavaScript, and Nodejs  in preparation for a career as a Backend Engineer..
 
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m an open source enthusiast. 
 
 - 😊 I’m looking for help with internships, and entry-level opportunities.
 
