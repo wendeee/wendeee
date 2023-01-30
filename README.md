@@ -11,19 +11,19 @@
 
 - 🔭 I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 
-- 🌱 I’m currently learning JavaScript, and Nodejs  in preparation for a career as a Backend Engineer..
+- 🌱 I’m currently learning Typescript and Nodejs.
 
 - 👯 I’m an open source enthusiast. 
 
 - 😊 I’m looking for help with internships, and entry-level opportunities.
 
-- 💼 Job interests: Software Engineer, Backend Engineer, or Technical writer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 
 - ⚡ Hobbies: Travelling 🚀, Reading 📙, Hanging out with friends.
 
 - ✍ I I create technical content: [My Blog](https://chinwendu.hashnode.dev/) and [Freecodecamp](https://www.freecodecamp.org/news/author/chinwendu)
 
-- 📫 You can contact me by emailing chinwe.promise2016@gmail.com
+- 📫 You can contact me by emailing chinwenduenyinnap@gmail.com
 
 
 
