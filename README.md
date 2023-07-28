@@ -7,17 +7,16 @@
 
 **Get to know me😊**:
 
-- 👩‍💻 I'm an Applied Biochemistry graduate who's making a switch to tech. 
+- 👩‍💻 I'm an Applied Biochemistry graduate who successfully made a switch to tech. 
 
-- 🔭 I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🔭 I'm an AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) alumna (class of 2022).
 
-- 🌱 I’m currently learning Typescript and Nodejs.
+- 🌱 I’m currently on a journey to becoming a DevOps engineer.
 
-- 👯 I’m an open source enthusiast. 
+- 👯 I’m an open-source enthusiast. 
 
-- 😊 I’m looking for help with internships, and entry-level opportunities.
 
-- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Backend Engineer (entry-level), Technical writing (Part-time remote role).
 
 - ⚡ Hobbies: Travelling 🚀, Reading 📙, Hanging out with friends.
 
