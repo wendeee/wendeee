@@ -7,23 +7,22 @@
 
 **Get to know me😊**:
 
-- 👩‍💻 I'm an Applied Biochemistry graduate who successfully made a switch to tech. 
+- 👩‍💻  I'm a graduate of Applied Biochemistry who successfully transitioned into tech. 
 
-- 🔭 I'm an AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) alumna (class of 2022).
+- 🔭 I'm an alumna of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering).
 
-- 🌱 I’m currently on a journey to becoming a DevOps engineer.
+- 🌱 I'm currently expanding my backend engineering skills to include DevOps/Cloud engineering..
 
 - 👯 I’m an open-source enthusiast. 
 
 
-- 💼 Job interests: Software Engineer, Backend Engineer (entry-level), Technical writing (Part-time remote role).
+- 💼 Job interests: Software Engineer, Backend Engineer, Technical writing (Part-time remote role).
 
-- ⚡ Hobbies: Travelling 🚀, Reading 📙, Hanging out with friends.
+- ⚡ Hobbies: Travelling and sightseeing 🚀, Reading 📙, and hanging out with friends.
 
-- ✍ I I create technical content: [My Blog](https://chinwendu.hashnode.dev/) and [Freecodecamp](https://www.freecodecamp.org/news/author/chinwendu)
+- ✍ I create technical content on [My Blog](https://chinwendu.medium.com/) and [Freecodecamp](https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/)
 
 - 📫 You can contact me by emailing chinwenduenyinnap@gmail.com
-
 
 
 ### Languages and Tools
@@ -34,18 +33,24 @@
 <code><img height="36" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png?size=48" alt="MongoDB"></code>
 <code><img height="36" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"></code>
 <code><img height="36" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png?size=48" alt="Express"></code>
+<code><img height="36" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="Docker"></code>
+<code><img height="36" width="40" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png?size=48" alt="Kubernetes"></code>
+
+
 
 </br>
 
 
-
+<!--
 ### 🏆 My GitHub stats
 <!--
 </br>
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wendeee&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendeee&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
 | ------------- | ------------- |
 -->
+
 <!--mine github stats-->
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wendeee&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendeee&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" />
 
 
