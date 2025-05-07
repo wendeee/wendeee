@@ -18,7 +18,7 @@
 
 - 💼 Job interests: Software Engineer, Backend Engineer, Technical writing (Part-time remote role).
 
-- ⚡ Hobbies: Travelling and sightseeing 🚀, Reading 📙, and hanging out with friends.
+- ⚡ Hobbies: Travelling and sightseeing 🚀, reading 📙, and hanging out with friends.
 
 - ✍ I create technical content on [My Blog](https://chinwendu.medium.com/) and [Freecodecamp](https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/)
 
