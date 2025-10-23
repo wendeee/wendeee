@@ -22,6 +22,8 @@
 
 - ✍ I create technical content on [My Blog](https://chinwendu.medium.com/) and [Freecodecamp](https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/)
 
+- You can find some of my code commits [here](https://github.com/wendeeeee) as well.
+
 - 📫 You can contact me by emailing chinwenduenyinnap@gmail.com
 
 
