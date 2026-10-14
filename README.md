@@ -20,9 +20,7 @@ Software & AI Product Engineer. I build backend systems that move money, scale u
 
 ### Stack
 
-[![Stack](https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,mongodb,redis,docker,kubernetes,gcp,prometheus,grafana)](https://skillicons.dev)
-
-Also: BullMQ, pgvector, OpenTelemetry, Paystack, Stripe, OpenAI.
+[![Stack](https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,mongodb,redis,docker,kubernetes,gcp,aws,prometheus,grafana)](https://skillicons.dev)
 
 ---
 
